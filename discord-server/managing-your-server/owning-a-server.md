@@ -33,5 +33,37 @@ Bots that welcome the user gives a “false” sense of a welcome and can give y
 
 ## What else can you do to keep members from leaving?
 
+TK
+
+## Get your server out there!
+
+This is very important, DO NOT rely on your “IRL” friends to add people, or just expect your server to suddenly grow, growing a server takes time, as well as requires you to know what your doing, to do it effectively, later in the site we will talk about where to do this, and I will go over my personal experience on whats worked, as well as what hasn’t. Feel free to jump to there right now by clicking the box below.
+
+{% page-ref page="getting-and-keeping-users.md" %}
+
+## Add bots, and other similar things to make your server pop!
+
+Bots are an amazing resource to servers, they can make a text-only server into one where people can listen to music together, play games, and get stats from YouTubers, anime, gaming etc. They can also help with moderating and keeping your server intact.
+
+BUT there is a limit to how many bots, and what bots you should add. If you have 30 bots, with 15 doing the same thing as the rest, but look slightly different then it will look cluttered and unprofessional. As well as it's important to keep in mind some bots may have the same prefixes. Which can be annoying \(Most bots allow you to set a custom prefix though\). Depending on what your server wants to aim for its purpose, adding bots to achieve that is a nice utility.
+
+Keep in mind that adding an anime bot, or a gaming bot, to a music server is weird and has no purpose \(Of couse your server could want a gaming / anime bot should it fit the theme\). It can be nice to ask the community if there are any bots that they want to be added and check into what bots are being used and remove ones that are not necessary. As well as previously mentioned don’t add 3 bots that all welcome a person when they join your server, using one bot to do 3 bots jobs is a good thing, in the next page down Ill give a list the top bots I recommend for doing certain tasks, as well as what they do. Keep in mind that adding some random bot that someone sent you could be a “troll” and could nuke your server, I recommend only trusting bots you can find on [https://top.gg/](https://top.gg/). 
+
+{% page-ref page="owning-a-server.md" %}
+
+It's also possible to make bots or have others make them for you. If you want a bot to do something that you cant do with the current list of bots making one is a great next step. They are somewhat hard to make depending on your knowledge of coding, but there is plenty of tutorials online, like on youtube on how to make discord bots \(as well as you may learn some coding along the way!\).
+
+{% hint style="success" %}
+If you want to learn how to code a discord.js bot I recomend a guide by [AnIditosGuide](https://anidiots.guide/)
+{% endhint %}
+
+## Have events, or something similar to bring the server together!
+
+A great way to bring people in your server together is competitions, watching films/videos together, or having them work together to achieve a similar goal. This will go a long way in making your server active, as well as make your members closer, it can also make people find out interests that other people have in common with each other. Some examples of events that work well in server environments are games such as “Jackbox 1-6”, films/videos watched together on services like kast.gg or even just streamed using the built-in discord steaming. This can greatly improve the chances of your server getting out there more, as people will share with their friends about an event, or joining them to be on a similar team, etc.   
+
+
+Discord bots can make this process more fluid. Having bots such as Rythm, Bongo, or Fredbot for listening to music can bring people together while they share music they like with each other.  This can invite more discussions in your server, and create a shared memory among the users of your community.  
+
+
 
 

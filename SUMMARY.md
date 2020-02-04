@@ -12,7 +12,7 @@
 * [Server Settings](discord-server/server-settings.md)
 * [Managing your server](discord-server/managing-your-server/README.md)
   * [What to do](discord-server/managing-your-server/owning-a-server.md)
-  * [A warm welcome](discord-server/managing-your-server/a-warm-welcome.md)
+  * [Getting/Keeping Users](discord-server/managing-your-server/getting-and-keeping-users.md)
 
 ## Discord Bots
 
