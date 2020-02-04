@@ -14,9 +14,18 @@
   * [What to do](discord-server/managing-your-server/owning-a-server.md)
   * [Getting/Keeping Users](discord-server/managing-your-server/getting-and-keeping-users.md)
 
-## Getting the word out <a id="advertising-and-more"></a>
+## Discord 101
 
-* [Advertising 101](advertising-and-more/advertising-101.md)
+* [Bots 101](discord-101/advertising-101.md)
+* [Roles 101](discord-101/roles-101.md)
+* [Events 101](discord-101/events-101.md)
+* [Themes 101](discord-101/themes-101.md)
+* [Channels 101](discord-101/channels-101.md)
+* [Advertising 101](discord-101/advertising-101-1.md)
+* [Permissions 101](discord-101/permissions-101.md)
+* [Servers Setup 101](discord-101/servers-setup-101.md)
+
+## Getting the word out <a id="advertising-and-more"></a>
 
 ## Discord Bots
 
