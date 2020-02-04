@@ -49,7 +49,7 @@ BUT there is a limit to how many bots, and what bots you should add. If you have
 
 Keep in mind that adding an anime bot, or a gaming bot, to a music server is weird and has no purpose \(Of couse your server could want a gaming / anime bot should it fit the theme\). It can be nice to ask the community if there are any bots that they want to be added and check into what bots are being used and remove ones that are not necessary. As well as previously mentioned don’t add 3 bots that all welcome a person when they join your server, using one bot to do 3 bots jobs is a good thing, in the next page down Ill give a list the top bots I recommend for doing certain tasks, as well as what they do. Keep in mind that adding some random bot that someone sent you could be a “troll” and could nuke your server, I recommend only trusting bots you can find on [https://top.gg/](https://top.gg/). 
 
-{% page-ref page="owning-a-server.md" %}
+I have guides on youtube as well as text based guides listing bots features as well as how to use some select bots, if youd like to know more about a bot mentioned in the bot section of this guide feel free to mention it in the discord.
 
 It's also possible to make bots or have others make them for you. If you want a bot to do something that you cant do with the current list of bots making one is a great next step. They are somewhat hard to make depending on your knowledge of coding, but there is plenty of tutorials online, like on youtube on how to make discord bots \(as well as you may learn some coding along the way!\).
 

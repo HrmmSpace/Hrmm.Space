@@ -14,10 +14,14 @@
   * [What to do](discord-server/managing-your-server/owning-a-server.md)
   * [Getting/Keeping Users](discord-server/managing-your-server/getting-and-keeping-users.md)
 
+## Getting the word out <a id="advertising-and-more"></a>
+
+* [Advertising 101](advertising-and-more/advertising-101.md)
+
 ## Discord Bots
 
 * [Bot Guide](discord-bots/info/README.md)
-  * [Untitled](discord-bots/info/untitled.md)
+  * [Administrative Bots](discord-bots/info/untitled.md)
 * [Your first discord bot](discord-bots/your-first-discord-bot-1/README.md)
   * [Making your first bot](discord-bots/your-first-discord-bot-1/making-your-first-bot.md)
 
