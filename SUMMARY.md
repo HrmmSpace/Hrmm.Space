@@ -26,6 +26,7 @@
   * [Music Bots](discord-bots/info/music-bots.md)
   * [Level Bots](discord-bots/info/level-bots.md)
   * [NSFW Bots](discord-bots/info/nsfw-bots.md)
+  * [Jack of all trade Bots](discord-bots/info/jack-of-all-trade-bots.md)
 * [Bot Guides](discord-bots/bot-guides.md)
 * [Your first discord bot](discord-bots/your-first-discord-bot-1/README.md)
   * [Making your first bot](discord-bots/your-first-discord-bot-1/making-your-first-bot.md)

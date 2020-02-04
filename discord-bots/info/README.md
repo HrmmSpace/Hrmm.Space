@@ -1,8 +1,8 @@
 ---
 description: >-
-  In this section ill talk about what bots I've found do the job best for each
-  catogory, as well if they have any featues that make them even more worthwile
+  In this section ill talk about how to use bots you request, as well as general
+  info about the bots and their purposes.
 ---
 
-# Which Bots to pick
+# Bot Guide
 
