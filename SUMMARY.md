@@ -16,14 +16,15 @@
 
 ## Discord 101
 
-* [Bots 101](discord-101/advertising-101.md)
-* [Roles 101](discord-101/roles-101.md)
-* [Events 101](discord-101/events-101.md)
-* [Themes 101](discord-101/themes-101.md)
-* [Channels 101](discord-101/channels-101.md)
-* [Advertising 101](discord-101/advertising-101-1.md)
-* [Permissions 101](discord-101/permissions-101.md)
-* [Servers Setup 101](discord-101/servers-setup-101.md)
+* [Discord 101](discord-101/discord-101/README.md)
+  * [Bots 101](discord-101/discord-101/advertising-101.md)
+  * [Roles 101](discord-101/discord-101/roles-101.md)
+  * [Events 101](discord-101/discord-101/events-101.md)
+  * [Themes 101](discord-101/discord-101/themes-101.md)
+  * [Channels 101](discord-101/discord-101/channels-101.md)
+  * [Advertising 101](discord-101/discord-101/advertising-101-1.md)
+  * [Permissions 101](discord-101/discord-101/permissions-101.md)
+  * [Servers Setup 101](discord-101/discord-101/servers-setup-101.md)
 
 ## Getting the word out <a id="advertising-and-more"></a>
 
