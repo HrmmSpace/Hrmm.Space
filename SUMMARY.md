@@ -21,6 +21,9 @@
 ## Discord Bots
 
 * [Bot Guide](discord-bots/info/README.md)
+  * [Level Bots](discord-bots/info/level-bots.md)
+  * [Music Bots](discord-bots/info/music-bots.md)
+  * [Fun Bots](discord-bots/info/fun-bots.md)
   * [Administrative Bots](discord-bots/info/untitled.md)
 * [Your first discord bot](discord-bots/your-first-discord-bot-1/README.md)
   * [Making your first bot](discord-bots/your-first-discord-bot-1/making-your-first-bot.md)
