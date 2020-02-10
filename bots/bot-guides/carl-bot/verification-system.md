@@ -9,6 +9,8 @@ Thanks to [Viosmic](https://www.youtube.com/channel/UCdvf6TwNdxxol3fbFbpbVFg) [ð
 ## Setup
 
 {% hint style="info" %}
-This guide assumes you have read the guide on [how to invite bots](../), as well you have gave it the **administrator** permission.
+This guide assumes you have read the guide on [how to invite bots](../), as well you have gave it the **administrator** permission or **\(Manage Server** & **Manage Roles**\).
 {% endhint %}
+
+So getting started, after inviting the bot and giving it the required role
 
