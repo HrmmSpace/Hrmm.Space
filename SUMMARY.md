@@ -30,7 +30,9 @@
   * [Permissions 101](discord-101/discord-101/permissions-101.md)
   * [Servers Setup 101](discord-101/discord-101/servers-setup-101.md)
 
-## Getting the word out <a id="advertising-and-more"></a>
+## Advertising
+
+* [What does it mean to Advertise?](advertising/what-does-it-mean-to-advertise.md)
 
 ## Discord Bots <a id="bots"></a>
 
