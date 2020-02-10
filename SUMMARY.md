@@ -14,6 +14,10 @@
   * [What to do](discord-server/managing-your-server/owning-a-server.md)
   * [Getting/Keeping Users](discord-server/managing-your-server/getting-and-keeping-users.md)
 
+## Permissions
+
+* [Permissions](permissions/permissions.md)
+
 ## Discord 101 <a id="101"></a>
 
 * [Discord 101](discord-101/discord-101/README.md)
@@ -50,8 +54,4 @@
 * [Server-based Questions](faq/server-based-questions.md)
 * [Permission-based Questions](faq/permission-based-questions.md)
 * [Bot-based Questions](faq/bot-based-questions.md)
-
-## Permissions
-
-* [Permissions](permissions/permissions.md)
 
