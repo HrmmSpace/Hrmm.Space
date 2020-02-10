@@ -43,7 +43,7 @@
   * [Level Bots](discord-bots/info/level-bots.md)
   * [NSFW Bots](discord-bots/info/nsfw-bots.md)
   * [Jack of all trade Bots](discord-bots/info/jack-of-all-trade-bots.md)
-* [Bot Guides](discord-bots/bot-guides.md)
+* [Bot Guides](bots/bot-guides/README.md)
   * [Carl-Bot](bots/bot-guides/carl-bot/README.md)
     * [Verification System](bots/bot-guides/carl-bot/verification-system.md)
     * [Lockdown](bots/bot-guides/carl-bot/lockdown.md)
