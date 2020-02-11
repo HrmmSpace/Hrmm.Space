@@ -4,7 +4,7 @@
 
 ## Discord Server <a id="servers"></a>
 
-* [Making your first server](discord-server/your-first-discord-server-1/README.md)
+* [Making your first server](servers/your-first-discord-server-1/README.md)
   * [Planning](discord-server/your-first-discord-server-1/planning.md)
   * [Creating](discord-server/your-first-discord-server-1/how-to-make-a-discord-server.md)
   * [Moving On](discord-server/your-first-discord-server-1/moving-on.md)

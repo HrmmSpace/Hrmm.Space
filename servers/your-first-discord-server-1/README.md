@@ -5,7 +5,7 @@
 * Planning and how to come up with a name / icon for your server, as well as useful tips
 * How to make a discord server on discord
 * Explanation of the discord server settings list
-* How to create Channels / Roles
+* How to create Channels / Roles 
 
 ## **Pages Index**
 
